@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="QMUI.Compat.NoActionBar" >
+    <item name="android:fontFamily">@font/china</item>
+    </style>
+
+</resources>
